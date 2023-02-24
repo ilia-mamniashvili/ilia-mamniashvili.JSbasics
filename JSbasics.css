@@ -1,0 +1,11 @@
+#enter:focus {
+    background-color:  red;
+}
+
+#wdw{
+    display: none;
+    border: 1px black dotted;
+    max-width: 50vw;
+    min-height: 50vh;
+    margin-left: 40vw;
+}
